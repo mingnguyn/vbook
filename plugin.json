@@ -7,7 +7,7 @@
         {
         "name": "Vlog Truyện",
         "author": "Nhocconsr",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/plugin.zip",
+        "path": "https://raw.githubusercontent.com/mingnguyn/vbook/main/vlogtruyen/plugin.json",
         "version": 11,
         "source": "https://vlogtruyen33.com",
         "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/vlogtruyen/icon.png",
